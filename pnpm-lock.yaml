@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@roninbuilders/modal':
-    specifier: ^0.0.5
-    version: 0.0.5(@types/react@18.2.37)(react@18.2.0)(typescript@5.2.2)(vanilla-cafe@0.1.5)
+    specifier: ^0.0.6
+    version: 0.0.6(@types/react@18.2.37)(react@18.2.0)(typescript@5.2.2)(vanilla-cafe@0.1.5)
   '@w3vm/react':
     specifier: ^0.0.6
     version: 0.0.6(@types/react@18.2.37)(@w3vm/core@0.0.3)(react@18.2.0)(typescript@5.2.2)
@@ -646,8 +646,8 @@ packages:
     dev: true
     optional: true
 
-  /@roninbuilders/modal@0.0.5(@types/react@18.2.37)(react@18.2.0)(typescript@5.2.2)(vanilla-cafe@0.1.5):
-    resolution: {integrity: sha512-eCC4jgDoRHUr0JwLbyZJ2xcM3pJPU33yLkBBPO1fVG4Rd4wMONqlctpnujmJIPwjmP0CL+JLkkT5eIbNoRscLQ==}
+  /@roninbuilders/modal@0.0.6(@types/react@18.2.37)(react@18.2.0)(typescript@5.2.2)(vanilla-cafe@0.1.5):
+    resolution: {integrity: sha512-AQkuG2e/61FGeFtaHfLe4NHgGt4ZgjP3GPyr0j9kWS6tI3JsFmH9Hmu1WPF91QibDPUJrXH0kGJqe49Bhnhw/A==}
     peerDependencies:
       typescript: '>=5'
       vanilla-cafe: '>=0'
