@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@roninbuilders/modal": "^0.0.4",
+    "@roninbuilders/modal": "^0.0.5",
     "@w3vm/react": "^0.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
